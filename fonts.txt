@@ -1,0 +1,28 @@
+Меню:
+
+font-size: 18px
+font-weight: 900px
+
+Заголовки:
+
+h2
+
+font-size: 36px
+font-weight: 800px
+
+font-size: 24px
+font-weight: 900px
+
+Абзацы: 
+
+p
+
+font-size: 18px
+font-weight: 400px
+
+Ссылка в виде кнопки 
+
+a
+
+font-size: 18px
+font-weight: 700px
